@@ -11,11 +11,11 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Abstract Algebra
-tagline:          Abstract Algebra
-description:      "An abstract algebra guide"
-url:              https://github.com/jamiecayley/abstractalgebra
-baseurl:          /abstractalgebra/
+title:            Contest Math
+tagline:          Contest Math
+description:      "A page full of exercises relating to contest math!"
+url:              https://github.com/jamiecayley/contestmath
+baseurl:          /contestmath/
 
 author:
   name:           'Jamie Calley'
@@ -27,5 +27,5 @@ paginate:         5
 version:          1.0.0
 
 github:
-  repo:           https://github.com/jamiecayley/abstractalgebra
-repository:       jamiecalley/abstractalgebra
+  repo:           https://github.com/jamiecayley/contestmath
+repository:       jamiecalley/contestmath

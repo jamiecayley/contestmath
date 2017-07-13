@@ -45,18 +45,18 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
   font-family: 'EB Garamond', serif;
-  color: #12cfc0;
+  color: #6fc2ef;
   font-kerning: auto;
   font-feature-settings: "kern","liga","dlig","hlig","cswh";
   font-synthesis: weight style;
 }
 
 a {
-  color: #12cfc0;
+  color: #6fc2ef;
 }
 
 a:hover {
-  color: #12cfc0;
+  color: #6fc2ef;
 }
 
 .btn {
@@ -385,11 +385,11 @@ a.sidebar-nav-item:focus {
 
 /* White */
 .theme-base-0w .sidebar {
-  background-color: #12cfc0;
+  background-color: #6fc2ef;
 }
 .theme-base-0w .content a,
 .theme-base-0w .related-posts li a:hover {
-  color: #12cfc0;
+  color: #6fc2ef;
 }
 
 .theme-base-0w .related-posts li a:hover {
