@@ -1,0 +1,31 @@
+# Plugins
+gems:             ['jekyll-paginate', 'jekyll-gist', 'jekyll-github-metadata']
+
+
+# Dependencies
+markdown: kramdown
+mathjax: true
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Abstract Algebra
+tagline:          Abstract Algebra
+description:      "An abstract algebra guide"
+url:              https://github.com/jamiecayley/abstractalgebra
+baseurl:          /abstractalgebra/
+
+author:
+  name:           'Jamie Calley'
+  url:            https://github.com/jamiecayley
+
+paginate:         5
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/jamiecayley/abstractalgebra
+repository:       jamiecalley/abstractalgebra
